@@ -25,6 +25,7 @@
 # PyImageCrawler
 
 A simple Python script to extract image URLs from a specified website
+This was made during a python training course
 
 ## Description
 

@@ -1,5 +1,5 @@
 # Script : imCrawler1.py
-# Author : mxn
+# Author : 0zDxt
 
 import requests, re, sys, argparse, shutil
 from urllib.parse import urljoin
